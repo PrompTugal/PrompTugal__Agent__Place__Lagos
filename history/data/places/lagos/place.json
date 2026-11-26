@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/place.schema.json",
+  "id": "lagos",
+  "type": "place",
+  "name": "Lagos",
+  "kind": "municipality",
+  "located_in": "place:algarve",
+  "matches": [
+    "Lagos, Algarve"
+  ],
+  "source": "https://www.algarveevolution.pt/event/gdg-lagos-182/register",
+  "neighbours": [
+    {
+      "place": "place:aljezur",
+      "border_km": 15.8,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:monchique",
+      "border_km": 11.8,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:portimao",
+      "border_km": 14.5,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:vila-do-bispo",
+      "border_km": 19.6,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    }
+  ],
+  "at": [
+    -8.673,
+    37.102
+  ],
+  "at_source": {
+    "url": "data/by-place/places.json",
+    "read_at": "2026-11-19T20:05Z",
+    "how": "the place's seat as the by-place list gives it (the map's own point)"
+  }
+}
