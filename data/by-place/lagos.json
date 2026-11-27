@@ -345,127 +345,39 @@
   "gaps_intro": "Here is what we could not find, and sim, we looked properly:"
  },
  "latest_news": {
-  "read_at": "2026-11-27T07:38:31Z",
+  "read_at": "2026-11-27T18:37Z",
   "by": "place.lagos@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Lagos quer reforçar cooperação internacional com adesão à União das Cidades Capitais de Língua Portuguesa",
-   "url": "https://postal.pt/algarve/lagos-quer-reforcar-cooperacao-internacional-com-adesao-a-uniao-das-cidades-capitais-de-lingua-portuguesa/",
-   "source": "Postal do Algarve",
-   "date": "2026-11-26",
-   "read_at": "2026-11-27T07:25:26Z",
+   "title": "Município de Lagos volta a apoiar alunos com bolsas de estudo",
+   "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99341",
+   "source": "A Voz do Algarve",
+   "date": "2026-11-27",
+   "read_at": "2026-11-27T18:25:33Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Lagos quer reforçar cooperação internacional com adesão à União das Cidades Capitais de Língua Portuguesa",
-    "url": "https://postal.pt/algarve/lagos-quer-reforcar-cooperacao-internacional-com-adesao-a-uniao-das-cidades-capitais-de-lingua-portuguesa/",
-    "published": "2026-11-26T15:39Z",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/feed/",
-    "read_at": "2026-11-27T07:25:26Z",
+    "title": "Município de Lagos volta a apoiar alunos com bolsas de estudo",
+    "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99341",
+    "published": "2026-11-27T18:25Z",
+    "source": "A Voz do Algarve",
+    "source_site": "https://www.avozdoalgarve.pt/",
+    "feed": "https://www.avozdoalgarve.pt/feed/",
+    "read_at": "2026-11-27T18:25:33Z",
     "mentions_place": true,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "V Jornadas de Lagos debatem impacto da mobilidade no desenvolvimento do concelho",
-    "url": "https://www.barlavento.pt/v-jornadas-lagos-mobilidade/",
-    "published": "2026-11-26T14:39Z",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-27T07:25:24Z",
+    "title": "Lagos, Baía de Natal: onde a estrela do Natal encontra o mar",
+    "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99340",
+    "published": "2026-11-27T18:25Z",
+    "source": "A Voz do Algarve",
+    "source_site": "https://www.avozdoalgarve.pt/",
+    "feed": "https://www.avozdoalgarve.pt/feed/",
+    "read_at": "2026-11-27T18:25:33Z",
     "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Macaco à solta no Algarve: fugiu do Zoo de Lagos há três dias e foi visto junto a uma plantação de abacates",
-    "url": "https://postal.pt/algarve/macaco-a-solta-no-algarve-fugiu-do-zoo-de-lagos-ha-tres-dias-e-foi-visto-junto-a-uma-plantacao-de-abacates/",
-    "published": "2026-11-26T11:20Z",
-    "date": "2026-11-26",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Lagos&feed=rss2",
-    "read_at": "2026-11-27T07:32:23Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Câmara de Lagos aprova orçamento superior a 119 milhões de euros para 2027",
-    "url": "https://www.barlavento.pt/camara-de-lagos-aprova-orcamento-superior-a-119-milhoes-de-euros-para-2027/",
-    "published": "2026-11-26T10:33Z",
-    "date": "2026-11-26",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Lagos&feed=rss2",
-    "read_at": "2026-11-27T07:32:18Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Lagos aprova orçamento superior a 119 milhões de euros com habitação no topo das prioridades",
-    "url": "https://postal.pt/algarve/lagos-aprova-orcamento-superior-a-119-milhoes-de-euros-com-habitacao-no-topo-das-prioridades/",
-    "published": "2026-11-26T08:00Z",
-    "date": "2026-11-26",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Lagos&feed=rss2",
-    "read_at": "2026-11-27T07:32:23Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Baja de Lagos regressa com títulos nacionais em disputa e percurso renovado",
-    "url": "https://postal.pt/algarve/baja-de-lagos-regressa-com-titulos-nacionais-em-disputa-e-percurso-renovado/",
-    "published": "2026-11-24T15:00Z",
-    "date": "2026-11-24",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Lagos&feed=rss2",
-    "read_at": "2026-11-27T07:32:23Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Baja de Lagos pode decidir os títulos nacionais de todo-o-terreno",
-    "url": "https://www.barlavento.pt/baja-lagos-titulos-nacionais-todo-o-terreno/",
-    "published": "2026-11-24T13:57Z",
-    "date": "2026-11-24",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Lagos&feed=rss2",
-    "read_at": "2026-11-27T07:32:18Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Mais de metade da receita vem dos imóveis: Loulé, Lagos, Tavira e Portimão entre os seis concelhos do país onde o IMI e o IMT mais pesam",
-    "url": "https://postal.pt/nacional/mais-de-metade-da-receita-vem-dos-imoveis-loule-lagos-tavira-e-portimao-entre-os-seis-concelhos-do-pais-onde-o-imi-e-o-imt-mais-pesam/",
-    "published": "2026-11-24T13:15Z",
-    "date": "2026-11-24",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Lagos&feed=rss2",
-    "read_at": "2026-11-27T07:32:23Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Fórum Lagos – Ecossistema Azul reúne instituições científicas e empresas para debater a economia do mar",
-    "url": "https://www.barlavento.pt/forum-lagos-ecossistema-azul/",
-    "published": "2026-11-23T19:16Z",
-    "date": "2026-11-23",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Lagos&feed=rss2",
-    "read_at": "2026-11-27T07:32:18Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Mercado de Natal da Mercearia Bio em Lagos tem oficinas de biscoitos para crianças",
-    "url": "https://www.barlavento.pt/mercado-natal-mercearia-bio-lagos-2026/",
-    "published": "2026-11-23T18:57Z",
-    "date": "2026-11-23",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Lagos&feed=rss2",
-    "read_at": "2026-11-27T07:32:18Z",
-    "mentions_place": true
+    "date": "2026-11-27"
    }
   ]
  }
